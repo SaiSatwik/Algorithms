@@ -69,3 +69,4 @@ public class SegmentedTree {
 	}
 
 }
+,//this code is optimised very well i learnt a lot 
